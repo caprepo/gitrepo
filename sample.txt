@@ -1,0 +1,2 @@
+Hello! Welcome to git command prompt!
+This is a greeting message from GIT!
